@@ -23,8 +23,8 @@ function Intro() {
       <h1>Shubham Goswami</h1>
       <p>
         My Name is Shubham Goswami.I did my graduation from cdac noida in master
-        in computer science.i recently passout in 2023 and i am currently
-        searching for job.there is some following set of skill mention below.
+        of computer Application.i recently passout in 2023 and i am currently
+        searching for job.there is some following set of my skill mention below.
       </p>
     </div>
   );
